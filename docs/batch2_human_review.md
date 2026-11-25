@@ -11,7 +11,7 @@
 
 Physion-Eval 新增指尚未进入已发布 Physion-300、且已经有完整 fixing 预标注的候选，包含此前审核但未发布的样本。Physics-IQ、MME-COF 和新增 VideoPhy2 的 Seedance 视频由 Siyuan 生成；不推断机器预标注执行者。重复提交包只记一次，VideoPhy2 原始视频候选池不计入 batch2。
 
-- 在线入口：https://siyuanmacs.github.io/PhysFixBench/batch2.html
+- 在线入口：https://siyuanjasperma.github.io/PhysFixBench/batch2.html
 - 默认显示推荐候选。可切换“全部视频”或“未推荐／补捞”。
 - 播放原视频，对照“问题”和“应修改为”，必要时慢放并点击时间区间。
 - 选择通过、修改或驳回；可以直接修改问题、正确表现与保持内容。结果暂存于当前浏览器。
