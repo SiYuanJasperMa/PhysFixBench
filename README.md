@@ -6,12 +6,15 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/SiYuanJasperMa/PhysFixBench"><img src="https://img.shields.io/badge/GitHub-PhysFixBench-181717?logo=github"></a>
 <a href="https://huggingface.co/datasets/HuggingFriends/PhysFixBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-orange"></a>
 <img src="https://img.shields.io/badge/videos-606-blue">
 <img src="https://img.shields.io/badge/annotations-606-green">
 <img src="https://img.shields.io/badge/sources-4-purple">
 <img src="https://img.shields.io/badge/language-zh-red">
 </p>
+
+Canonical repository: **<https://github.com/SiYuanJasperMa/PhysFixBench>**
 
 每条样本是一段由视频生成模型产生、且存在**可修复物理缺陷**的视频，配以结构化中文修复指令：第几秒出现了什么物理问题、正确表现应是什么、修复时需保持哪些内容不变。标注只针对**物理问题**，不包含语义对齐 / instruction following / control 类问题。
 
